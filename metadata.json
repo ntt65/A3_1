@@ -1,0 +1,6 @@
+{
+  "name": "OpenCV 문서 스캐너 & 미션 분석 플랫폼",
+  "description": "휴대폰으로 찍은 종이를 펴서 스캔하는 OpenCV 컴퓨터 비전 파이프라인 시뮬레이터 및 분석 보고서 도우미",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
